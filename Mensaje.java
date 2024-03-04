@@ -11,7 +11,7 @@ public class Mensaje {
     }
 
     public void saludar(String nombre){
-        System.out.println("hola benvido a java",nombre);
+        System.out.println("hola benvido a java");
     }
 
 }
